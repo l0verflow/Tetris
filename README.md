@@ -1,2 +1,2 @@
-# Tetris
-![image](https://github.com/user-attachments/assets/294d19f9-e689-4ee7-ba2b-75508b265ae9)
+# >Tetris
+![image](https://github.com/user-attachments/assets/bd23346c-f4bd-4452-9fc1-0bbb3cbc61af)
